@@ -1,0 +1,6 @@
+framework module OSS2 {
+  umbrella header "OSS2.h"
+
+  export *
+  module * { export * }
+}
