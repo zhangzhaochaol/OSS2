@@ -1,0 +1,70 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AMapFoundation (1.6.9)
+  - AMapLocation (2.8.0):
+    - AMapFoundation (~> 1.6.9)
+  - AMapNavi (8.1.0):
+    - AMapFoundation (~> 1.6.9)
+  - AMapSearch (8.1.0):
+    - AMapFoundation (~> 1.6.9)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.4.1)
+  - MJRefresh (3.7.5)
+  - SDWebImage (5.12.4):
+    - SDWebImage/Core (= 5.12.4)
+  - SDWebImage/Core (5.12.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AMapLocation
+  - AMapNavi
+  - AMapSearch
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - SDWebImage
+
+SPEC REPOS:
+  https://mirrors.bfsu.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - AMapFoundation
+    - AMapLocation
+    - AMapNavi
+    - AMapSearch
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AMapFoundation: 8d8ecbb0b2e9ce5487995360d26c885d94642bfd
+  AMapLocation: 5ef44a1117be7dc541cb7a7d43d03c5ee91e4387
+  AMapNavi: 257ceddc7f4e26012e284e7b6c08f72e95fd1759
+  AMapSearch: 5c1cc07429f04b9cc76438fcb2411c66fdbbb178
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  SDWebImage: 631cf572cc93dfdfe54162e556410a61f1141928
+
+PODFILE CHECKSUM: 3017dd23f2ed4a3320a324a291764978686de25b
+
+COCOAPODS: 1.11.2

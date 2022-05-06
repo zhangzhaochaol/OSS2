@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-OSS2/Pods-OSS2-resources.sh
+${PODS_ROOT}/AMapNavi/AMapNaviKit.framework/AMapNavi.bundle
+${PODS_ROOT}/AMapNavi/AMapNaviKit.framework/AMap.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
