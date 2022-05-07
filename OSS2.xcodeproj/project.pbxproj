@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		0878AFCDAB762EF10856F947 /* libPods-OSS2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A52BA1B6E02842982C93A5F /* libPods-OSS2.a */; };
 		1D3DB763281A88ED0074519B /* Inc_LoginOSS.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D3DB761281A88ED0074519B /* Inc_LoginOSS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1D3DB764281A88ED0074519B /* Inc_LoginOSS.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DB762281A88ED0074519B /* Inc_LoginOSS.m */; };
 		1D3DB765281A8A8C0074519B /* Increase_OSS2_HomeVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D8241162819239400D0466C /* Increase_OSS2_HomeVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1345,6 +1346,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0878AFCDAB762EF10856F947 /* libPods-OSS2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                  这是给智网通使用的一款SDK
                  DESC
 
-  spec.homepage     = "https://github.com/zhangzhaochaol/OSS2"
+  spec.homepage     = "https://github.com/zhangzhaochaol/OSS2.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -92,8 +92,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "OSS2", "OSS2/**/*.{h,m}"
+  #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
